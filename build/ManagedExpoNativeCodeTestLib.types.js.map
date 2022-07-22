@@ -1,0 +1,1 @@
+{"version":3,"file":"ManagedExpoNativeCodeTestLib.types.js","sourceRoot":"","sources":["../src/ManagedExpoNativeCodeTestLib.types.ts"],"names":[],"mappings":"","sourcesContent":["export type ChangeEventPayload = {\n  value: string;\n};\n\nexport type ManagedExpoNativeCodeTestLibViewProps = {\n  name: string;\n};\n"]}

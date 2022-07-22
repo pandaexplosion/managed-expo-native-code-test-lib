@@ -1,0 +1,39 @@
+{
+  "name": "managed-expo-native-code-test-lib",
+  "version": "0.1.0",
+  "description": "An example library showing how to integrate third party React Native library containing native code into a managed workflow Expo application",
+  "main": "build/ManagedExpoNativeCodeTestLib.js",
+  "types": "build/ManagedExpoNativeCodeTestLib.d.ts",
+  "scripts": {
+    "build": "expo-module build",
+    "clean": "expo-module clean",
+    "lint": "expo-module lint",
+    "test": "expo-module test",
+    "prepare": "expo-module prepare",
+    "prepublishOnly": "expo-module prepublishOnly",
+    "expo-module": "expo-module"
+  },
+  "keywords": [
+    "react-native",
+    "expo",
+    "managed-expo-native-code-test-lib",
+    "ManagedExpoNativeCodeTestLib"
+  ],
+  "repository": "",
+  "bugs": {
+    "url": "/issues"
+  },
+  "author": "Chad Morrow",
+  "license": "MIT",
+  "homepage": "#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "expo-module-scripts": "^2.0.0",
+    "expo-modules-core": "^0.11.3"
+  },
+  "peerDependencies": {
+    "expo": "*",
+    "react": "*",
+    "react-native": "*"
+  }
+}
