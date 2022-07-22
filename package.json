@@ -1,5 +1,5 @@
 {
-  "name": "managed-expo-native-code-test-lib",
+  "name": "@pandaexplosion/managed-expo-native-code-test-lib",
   "version": "0.1.0",
   "description": "An example library showing how to integrate third party React Native library containing native code into a managed workflow Expo application",
   "main": "build/ManagedExpoNativeCodeTestLib.js",
